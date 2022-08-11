@@ -1,7 +1,2 @@
-# Algo_visualiser for sorting techniques in python
-
-Name : Soham Mahajan
-MIS  : 112003139
-DIV  : 2
-
-Python program that visualises Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, Quick Sort, Shell Sort.
+# AlgoVisualiser
+A Sorting algorithm visualizer is made by using python object-oriented programming principles for performing most of the sorting techniques and, the visualization of data is implemented as a bar graph. The resulting animation is then performed either automatically or by the user, who then sets their own pace. This is research on the computer science curriculum's approach to learning algorithms.
